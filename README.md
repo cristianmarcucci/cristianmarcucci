@@ -1,5 +1,3 @@
-###
-
 <h1 align="left">Cristian Marcucci</h1>
 
 ###
